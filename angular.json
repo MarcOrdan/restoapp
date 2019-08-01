@@ -21,7 +21,7 @@
             "aot": false,
             "assets": ["src/favicon.ico", "src/assets"],
             "styles": [
-              "../my-first-app/node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "../restoapp/node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
